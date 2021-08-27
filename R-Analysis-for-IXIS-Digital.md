@@ -1,5 +1,7 @@
 IXIS Digital Technical Exercise - Jonathan Huber
 ================
+##The following is a series of steps done to analyze data given in a coding technical challenge, using R to clean and visualize two data sets.
+
 
 ## Data Cleaning
 
