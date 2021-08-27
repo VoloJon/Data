@@ -1,2 +1,2 @@
 # Data
-Data Analysis Projects
+Data Analysis Projects for practice or demonstration purposes
